@@ -1,0 +1,15 @@
+E:\RFP231\HashTable_BST\UC2_FindFrequencyParaHashtable\bin\Debug\net6.0\UC2_FindFrequencyParaHashtable.exe
+E:\RFP231\HashTable_BST\UC2_FindFrequencyParaHashtable\bin\Debug\net6.0\UC2_FindFrequencyParaHashtable.deps.json
+E:\RFP231\HashTable_BST\UC2_FindFrequencyParaHashtable\bin\Debug\net6.0\UC2_FindFrequencyParaHashtable.runtimeconfig.json
+E:\RFP231\HashTable_BST\UC2_FindFrequencyParaHashtable\bin\Debug\net6.0\UC2_FindFrequencyParaHashtable.dll
+E:\RFP231\HashTable_BST\UC2_FindFrequencyParaHashtable\bin\Debug\net6.0\UC2_FindFrequencyParaHashtable.pdb
+E:\RFP231\HashTable_BST\UC2_FindFrequencyParaHashtable\obj\Debug\net6.0\UC2_FindFrequencyParaHashtable.csproj.AssemblyReference.cache
+E:\RFP231\HashTable_BST\UC2_FindFrequencyParaHashtable\obj\Debug\net6.0\UC2_FindFrequencyParaHashtable.GeneratedMSBuildEditorConfig.editorconfig
+E:\RFP231\HashTable_BST\UC2_FindFrequencyParaHashtable\obj\Debug\net6.0\UC2_FindFrequencyParaHashtable.AssemblyInfoInputs.cache
+E:\RFP231\HashTable_BST\UC2_FindFrequencyParaHashtable\obj\Debug\net6.0\UC2_FindFrequencyParaHashtable.AssemblyInfo.cs
+E:\RFP231\HashTable_BST\UC2_FindFrequencyParaHashtable\obj\Debug\net6.0\UC2_FindFrequencyParaHashtable.csproj.CoreCompileInputs.cache
+E:\RFP231\HashTable_BST\UC2_FindFrequencyParaHashtable\obj\Debug\net6.0\UC2_FindFrequencyParaHashtable.dll
+E:\RFP231\HashTable_BST\UC2_FindFrequencyParaHashtable\obj\Debug\net6.0\refint\UC2_FindFrequencyParaHashtable.dll
+E:\RFP231\HashTable_BST\UC2_FindFrequencyParaHashtable\obj\Debug\net6.0\UC2_FindFrequencyParaHashtable.pdb
+E:\RFP231\HashTable_BST\UC2_FindFrequencyParaHashtable\obj\Debug\net6.0\UC2_FindFrequencyParaHashtable.genruntimeconfig.cache
+E:\RFP231\HashTable_BST\UC2_FindFrequencyParaHashtable\obj\Debug\net6.0\ref\UC2_FindFrequencyParaHashtable.dll
